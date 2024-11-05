@@ -103,21 +103,21 @@ To run this project you need to have installed:
 
 3. Follow the on-screen instructions to enter the players' names and select the style of play.
 ## Game Controls
-* **Player 1: ** Use the W key to move the paddle up and the S key to move it down.
-* **Player 2: ** Use the ↑ arrow key to move the paddle up and the ↓ arrow key to move it down.
+* **Player 1**: Use the W key to move the paddle up and the S key to move it down.
+* **Player 2**: Use the ↑ arrow key to move the paddle up and the ↓ arrow key to move it down.
 
 ## Game Styles
-* **Score:** Players set a maximum score, and the game ends when one of the players reaches it.
-* **Time:** Players set a duration for the game, and at the end, the player with the most points wins.
-* **Free:** Play without time or score limits.
+* **Score**: Players set a maximum score, and the game ends when one of the players reaches it.
+* **Time**: Players set a duration for the game, and at the end, the player with the most points wins.
+* **Free**: Play without time or score limits.
 
 ## Code Structure
-* **Main function:** Initializes the paddles, the ball, and manages collisions and movement.
-* **Auxiliary functions:** 
-  * **request_names:** Asks for the players' names.
-  * **choose_game_style:** Allows selection of the game style.
-  * **left_paddle_up, left_paddle_down, right_paddle_up, right_paddle_down:** Control the movement of the paddles.
-  * **check_game_over:** Checks if the conditions to end the game are met.
+* **Main function**: Initializes the paddles, the ball, and manages collisions and movement.
+* **Auxiliary functions**: 
+  * **request_names**: Asks for the players' names.
+  * **choose_game_style**: Allows selection of the game style.
+  * **left_paddle_up, left_paddle_down, right_paddle_up, right_paddle_down**: Control the movement of the paddles.
+  * **check_game_over**: Checks if the conditions to end the game are met.
 
 ## Future Improvements
 * Implement an option to gradually increase the ball's speed.
