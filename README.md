@@ -64,6 +64,14 @@ Para ejecutar este proyecto necesitas tener instalado:
 ## Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, por favor abre un issue o un pull request.
 
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
+
+
 ---
 
 # Pong Game in Python
@@ -128,4 +136,13 @@ To run this project you need to have installed:
 
 ## Contributions
 Contributions are welcome. If you find any issues or have suggestions for improvements, please open an issue or a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
+
 
